@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nick\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Nick\\source\\repos\\TodoApi\\TodoAppCS\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Nick\\source\\repos\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectPath": "C:\\Users\\Nick\\source\\repos\\TodoApi\\TodoAppCS\\TodoApi\\TodoApi.csproj",
       "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nick\\source\\repos\\TodoApi\\TodoApi\\obj\\",
+      "outputPath": "C:\\Users\\Nick\\source\\repos\\TodoApi\\TodoAppCS\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
